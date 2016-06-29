@@ -1,0 +1,12 @@
+$primary-color: #edf1fa
+$border: solid
+
+body 
+  background: $primary-color
+
+.app 
+  margin-top: 30px
+
+.output-text 
+  border-left: $border
+  border-width: 1px
