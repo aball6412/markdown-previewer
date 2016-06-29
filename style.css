@@ -1,3 +1,5 @@
+/*****THIS IS SASS WHICH IS REQUIRED FOR FCC CHALLENGE
+//LOCALLY I'M GOING TO CONVERT TO SIMPLE CSS
 $primary-color: #edf1fa
 $border: solid
 
@@ -10,3 +12,21 @@ body
 .output-text 
   border-left: $border
   border-width: 1px
+*/
+
+
+body {
+    background: #edf1fa;
+}
+
+.app {
+    margin-top: 30px;
+}
+
+.output-text {
+    border-left: solid;
+    border-width: 1px;
+}
+
+
+
