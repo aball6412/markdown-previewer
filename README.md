@@ -2,8 +2,9 @@
 FCC Data Visualization Projects
 
 # DEMO
-**Coming soon to:** 
 https://aball6412.github.io/
+
+*under Front-End Projects
 
 # Built for FreeCodeCamp Challenge
 https://www.freecodecamp.com/challenges/build-a-markdown-previewer
